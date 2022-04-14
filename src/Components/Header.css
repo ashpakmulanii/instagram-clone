@@ -1,0 +1,12 @@
+.app__header{
+    background-color: white;
+    object-fit: contain;
+    padding:20px;
+    border:2px solid lightgray;
+
+  }
+.add__post{
+    margin-bottom:8px;
+    margin-left:270px;
+    font-size: 18px;
+}
